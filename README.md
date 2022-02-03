@@ -53,6 +53,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy on Railway
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMasterrockiei%2FFile-Sharing&envs=API_HASH%2CADMINS%2CAPP_ID%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2CFORCE_SUB_MESSAGE%2COWNER_ID%2CSTART_MESSAGE%2CTG_BOT_TOKEN&API_HASHDesc=your+api+hash%2C+take+it+from+my.telegram.org&ADMINSDesc=A+space+separated+list+of+user_ids+of+Admins%2C+they+can+only+create+links&APP_IDDesc=your+app+id%2C+take+it+from+my.telegram.org&CHANNEL_IDDesc=make+a+channel+%28database+channel%29%2C+then+make+the+bot+as+admin+in+channel%2C+and+it%27s+id&FORCE_SUB_CHANNELDesc=id+of+the+channel+or+group%2C+if+you+want+enable+force+sub+feature+else+put+0&FORCE_SUB_MESSAGEDesc=Optional%3A+Force+Sub+message+of+bot%2C+use+HTML+parsemode+format&OWNER_IDDesc=An+integer+of+consisting+of+your+owner+ID&START_MESSAGEDesc=Optional%3A+start+message+of+bot%2C+use+HTML+parsemode+format&TG_BOT_TOKENDesc=Your+Bot+token%2C+Get+it+from+%40Botfather&FORCE_SUB_MESSAGEDefault=Hello+%7Bfirst%7D++%3Cb%3EYou+need+to+join+in+my+Channel%2FGroup+to+use+me++Kindly+Please+join+Channel%3C%2Fb%3E&START_MESSAGEDefault=Hello+%7Bfirst%7D++I+can+store+private+files+in+Specified+Channel+and+other+users+can+access+it+from+special+link.&referralCode=RGowbJ)
 
 #### Deploy in your VPS
 ````bash
